@@ -130,8 +130,8 @@ jar {
 }
 
 bintray {
-    user = findProperty('bintrayUser')
-    key = findProperty('bintrayKey')
+    user = 'chan.deora7591@gmail.com'
+    key = 'Satya@7591'
     publications = ['maven']
     dryRun = false
     publish = true
