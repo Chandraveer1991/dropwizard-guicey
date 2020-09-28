@@ -99,7 +99,7 @@ group = 'ru.vyarus'
 description = 'Dropwizard guice integration'
 
 github {
-    user = 'xvik'
+    user = 'chan.deora7591@outlook.com'
     license = 'MIT'
 }
 
@@ -116,7 +116,7 @@ pom {
     }
     developers {
         developer {
-            id 'xvik'
+            id 'chan.deora7591@outlook.com'
             name 'Chandraveer'
             email 'chan.deora7591@outlook.com'
         }
