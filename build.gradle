@@ -117,8 +117,8 @@ pom {
     developers {
         developer {
             id 'xvik'
-            name 'Vyacheslav Rusakov'
-            email 'vyarus@gmail.com'
+            name 'Chandraveer'
+            email 'chan.deora7591@outlook.com'
         }
     }
 }
